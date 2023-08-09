@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate FullStack Developer from India</h3>
 
 - 🔭 I’m currently working on [Ecommerce MERN Project](https://github.com/1Y325/E-commerce-Website)
 
